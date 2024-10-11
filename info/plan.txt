@@ -1,0 +1,9 @@
+Histórias de usuário:
+
+#quero explicitar uma nova coleção de wallpapers
+
+#quero selecionar uma coleção de wallpapers para ser exibidas
+
+#quero agendar um período de troca de wallpapers
+
+#quero agendar uma uma troca de coleção de wallpapers 
